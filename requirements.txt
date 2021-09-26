@@ -1,6 +1,7 @@
 tqdm
 numpy
-librosa
+librosa==0.7.2
+numba==0.4.8
 mir_eval
 matplotlib
 Pillow
